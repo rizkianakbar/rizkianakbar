@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Rizkianakbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkianakbar&show_icons=true)
+![Rizkianakbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkianakbar&show_icons=true&count_private=true)
 <!--
 **rizkianakbar/rizkianakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
