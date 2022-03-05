@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**rizkianakbar/rizkianakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **rizkianakbar/rizkianakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
 ![Rizkianakbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkianakbar&show_icons=true&count_private=true&title_color=FF0000&icon_color=FF0000)
