@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Rizkianakbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkianakbar&show_icons=true&count_private=true&title_color=FF0000&icon_color=FF0000)
 
-<!-- [![Rizkianakbar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rizkianakbar)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Rizkianakbar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rizkianakbar)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rizkianakbar/rizkianakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
