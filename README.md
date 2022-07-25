@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- ![Rizkianakbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkianakbar&show_icons=true&count_private=true&border_color=gray&theme=dark&title_color=FF0000&icon_color=FF0000) -->
 <div align="center">
   <img height="154" src="https://github-readme-stats.vercel.app/api?username=rizkianakbar&show_icons=true&count_private=true&border_color=gray&theme=dark&title_color=FF0000&icon_color=FF0000" />
+  <img height="154" src="https://github-readme-stats.vercel.app/api/wakatime?username=rizkianakbar&border_color=gray&theme=dark&title_color=FF0000&icon_color=FF0000&layout=compact&langs_count=6&v=2 " />
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkianakbar&layout=compact&border_color=gray&theme=dark&title_color=FF0000&icon_color=FF0000&langs_count=9" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=rizkianakbar&border_color=gray&theme=dark&title_color=FF0000&icon_color=FF0000&layout=compact&langs_count=6&v=2 " />
 </div>
 
