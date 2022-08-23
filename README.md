@@ -1,5 +1,3 @@
----
-
 <img src="./kian.svg"></img>
 
 <div align='center'>
@@ -12,7 +10,7 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 </div>
 
----
+<br>
 
 <div align='center'>
   <img height="154" src="https://github-readme-stats.vercel.app/api?username=rizkianakbar&show_icons=true&theme=react&count_private=true&hide=contribs&title_color=FF0000&icon_color=FF0000" />
@@ -21,4 +19,3 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=rizkianakbar&layout=compact&theme=react&langs_count=6&title_color=FF0000&icon_color=FF0000&v=2" />
 </div>
 
----
