@@ -1,4 +1,4 @@
-<svg viewBox="0 0 960 300"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> 
+<svg viewBox="0 0 960 200"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> 
   <style>
     
 html, body{
@@ -15,7 +15,7 @@ svg {
     font: 8.5em sans-serif;
     width: 960px;
     height: 300px;
-    margin: 0 auto;
+    margin: auto;
 }
 
 .text-copy {
@@ -28,27 +28,27 @@ svg {
 }
 
 .text-copy:nth-child(1){
-	stroke: #dedeff;
+	stroke: #780000;
 	animation-delay: -1;
 }
 
 .text-copy:nth-child(2){
-	stroke: #feda33;
+	stroke: #c1121f;
 	animation-delay: -2s;
 }
 
 .text-copy:nth-child(3){
-	stroke: #9999ff;
+	stroke: #fdf0d5;
 	animation-delay: -3s;
 }
 
 .text-copy:nth-child(4){
-	stroke: #7788ff;
+	stroke: #003049;
 	animation-delay: -4s;
 }
 
 .text-copy:nth-child(5){
-	stroke: #FDB731;
+	stroke: #669bbc;
 	animation-delay: -5s;
 }
 
