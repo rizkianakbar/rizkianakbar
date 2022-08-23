@@ -51,6 +51,11 @@ svg {
 	stroke: #669bbc;
 	animation-delay: -5s;
 }
+	  
+.text-copy:nth-child(6){
+	stroke: #780000;
+	animation-delay: -6s;
+} 
 
 @keyframes stroke-offset{
 	100% {stroke-dashoffset: -35%;}
@@ -61,6 +66,7 @@ svg {
 	</symbol>
 
 	<g class = "g-ants">
+		<use href="#s-text" class="text-copy"></use>
 		<use href="#s-text" class="text-copy"></use>
 		<use href="#s-text" class="text-copy"></use>
 		<use href="#s-text" class="text-copy"></use>
