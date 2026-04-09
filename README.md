@@ -17,7 +17,7 @@
 </div>
 -->
 
-<div align='center'>
+<!-- <div align='center'>
   <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=rizkianakbar&layout=compact&theme=react&langs_count=6&title_color=FF0000&icon_color=FF0000" />
-</div>
+</div> -->
 
