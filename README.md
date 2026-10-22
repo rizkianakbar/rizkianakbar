@@ -1,23 +1,46 @@
-<img src="./kian.svg"></img>
+<div align="center">
 
-<div align='center'>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<img src="./kian.svg" alt="Kian" />
+
+**Senior Software Engineer · Full-stack & Web3 · Bandung, Indonesia 🇮🇩**
+
+Full-stack engineer who builds products end-to-end. I love turning ideas into real things.
+
+[![Website](https://img.shields.io/badge/rzknkbr.xyz-000?style=flat&logo=googlechrome&logoColor=white)](https://www.rzknkbr.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizkianakbar)
+[![X](https://img.shields.io/badge/@rzknkbr-000?style=flat&logo=x&logoColor=white)](https://x.com/rzknkbr)
+
 </div>
 
-<br>
+---
 
-<!-- 
-<div align='center'>
-  <img height="154" src="https://github-readme-stats.vercel.app/api?username=rizkianakbar&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=contribs&title_color=FF0000&icon_color=FF0000" /> 
+### 👋 About me
+
+6+ years shipping production systems across **banking, fintech, media, and Web3**. I own problems end-to-end — architecture, implementation, deployment, and everything in between.
+
+- 💼 Senior Software Engineer at **Avocado DAO**, leading full-stack development of **Stiqy**, a Web3 community engagement platform
+- 📰 Built and scaled **KBR ID**, a national news platform serving up to **800K visitors/month**, as the sole engineer
+- 🏆 Shipped **KBR Prime**, winner of the *WAN-IFRA Digital Media Awards Asia 2024* for Best Innovative Digital Product
+- ⛓️ Built on-chain features for the **Bumpies** NFT ecosystem — **4,982 NFTs minted**
+
+### 🛠️ Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,go,java,spring,postgres&perline=10" alt="Tech stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,prisma,supabase,graphql,solidity,docker,aws,vercel,git,figma&perline=10" alt="Tech stack" />
+</p>
+
+### 🚀 Things I've shipped
+
+| Product | What it is | Built with |
+| --- | --- | --- |
+| **Stiqy** | Web3 growth platform — gamified campaigns, on-chain verification, AI analytics chatbot, Stripe + stablecoin payments | Next.js · tRPC · Supabase · Wagmi · Viem |
+| **kBR ID** | National news platform, up to 800K monthly visitors | Next.js · Go · MariaDB |
+| **KBR Prime** | Award-winning podcast platform with embeddable player, RSS & analytics (now merged into kbr.id) | Next.js · tRPC · Go |
+| **Bumpies NFT** | NFT minting site & gallery with on-chain gameplay | Solidity · Hardhat · Ethers |
+
+<div align="center">
+
+💬 Want to chat? DM me on [X](https://x.com/rzknkbr).
+
 </div>
--->
-
-<!-- <div align='center'>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=rizkianakbar&layout=compact&theme=react&langs_count=6&title_color=FF0000&icon_color=FF0000" />
-</div> -->
-
