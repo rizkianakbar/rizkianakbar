@@ -11,6 +11,7 @@ Full-stack engineer who builds products end-to-end. I love turning ideas into re
 [![X](https://img.shields.io/badge/@rzknkbr-000?style=flat&logo=x&logoColor=white)](https://x.com/rzknkbr)
 
 </div>
+<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,go,java,spring,postgres&perline=10" alt="Tech stack" /><br/> <img src="https://skillicons.dev/icons?i=mysql,prisma,supabase,graphql,solidity,docker,aws,vercel,git,figma&perline=10" alt="Tech stack" /> </p>
 
 ---
 
@@ -23,12 +24,6 @@ Full-stack engineer who builds products end-to-end. I love turning ideas into re
 - 🏆 Shipped **KBR Prime**, winner of the *WAN-IFRA Digital Media Awards Asia 2024* for Best Innovative Digital Product
 - ⛓️ Built on-chain features for the **Bumpies** NFT ecosystem — **4,982 NFTs minted**
 
-### 🛠️ Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,go,java,spring,postgres&perline=10" alt="Tech stack" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,prisma,supabase,graphql,solidity,docker,aws,vercel,git,figma&perline=10" alt="Tech stack" />
-</p>
 
 ### 🚀 Things I've shipped
 
