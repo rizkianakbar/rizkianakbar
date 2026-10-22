@@ -15,27 +15,8 @@ Full-stack engineer who builds products end-to-end. I love turning ideas into re
 
 ---
 
-### 👋 About me
-
-6+ years shipping production systems across **banking, fintech, media, and Web3**. I own problems end-to-end — architecture, implementation, deployment, and everything in between.
-
-- 💼 Senior Software Engineer at **Avocado DAO**, leading full-stack development of **Stiqy**, a Web3 community engagement platform
-- 📰 Built and scaled **KBR ID**, a national news platform serving up to **800K visitors/month**, as the sole engineer
-- 🏆 Shipped **KBR Prime**, winner of the *WAN-IFRA Digital Media Awards Asia 2024* for Best Innovative Digital Product
-- ⛓️ Built on-chain features for the **Bumpies** NFT ecosystem — **4,982 NFTs minted**
-
-
-### 🚀 Things I've shipped
-
-| Product | What it is | Built with |
-| --- | --- | --- |
-| **Stiqy** | Web3 growth platform — gamified campaigns, on-chain verification, AI analytics chatbot, Stripe + stablecoin payments | Next.js · tRPC · Supabase · Wagmi · Viem |
-| **kBR ID** | National news platform, up to 800K monthly visitors | Next.js · Go · MariaDB |
-| **KBR Prime** | Award-winning podcast platform with embeddable player, RSS & analytics (now merged into kbr.id) | Next.js · tRPC · Go |
-| **Bumpies NFT** | NFT minting site & gallery with on-chain gameplay | Solidity · Hardhat · Ethers |
-
 <div align="center">
 
-💬 Want to chat? DM me on [X](https://x.com/rzknkbr).
+💬 Want to chat? Email me at rizkianakbar4@gmail.com.
 
 </div>
